@@ -31,6 +31,7 @@ calcolo_pos.m, calcolo_vel.m, calcolo_acc.m.
 
 
 Esempi di parametri da inserire per lemniscata di gerono:
+
     |  a  |  h  |  d_x  |  d_y  | theta_x | theta_y |
 -----------------------------------------------------
  1  | 0.3 | 0.4 |  0.3  | -0.2  |    0    |   0.4   |
