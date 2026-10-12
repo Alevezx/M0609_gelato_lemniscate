@@ -13,6 +13,7 @@ Il programma si sviluppa nel seguento modo:
 ESECUZIONE
 
 Eseguire: task_animazione.mlx
+
 Le simulazioni includono anche il modello URDF del robot.
 
 Per creare i grafici di velocità e accelerazione del task eseguire test_velocita.m
