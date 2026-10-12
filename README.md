@@ -2,23 +2,7 @@ Progetto universitario per la programmazione in Matlab di un cobot Doosan M0609.
 
 Istruzioni di compilazione file Matlab.
 
-Le funzioni sono suddivise in 3 cartelle per semplificare la comprensione delle diverse fasi del progetto.
-Per agevolare il controllo sulla validità delle funzioni si consiglia di eseguire i file sotto elencati, 
-i quali racchiudono le chiamate alle funzioni essenziali per il calcolo dei risultati. 
-All'interno di ogni cartella sono comunque riportate tutte le sotto-funzioni necessarie.
-
-1. Cinematica
-Contiene le funzioni per il calcolo della cinematica diretta e inversa, compresa la verifica "diretta-inversa-diretta"
-
-Eseguire: cinematica_test.mlx
-
-2. Lemniscata
-Contiene le funzioni per eseguire la traiettoria secondo la funzione della lemniscata di Gerono. 
-Per questo task le simulazioni includono anche il modello URDF del robot.
-
-Eseguire: lemniscata_test.mlx
-
-3. Task
+Task
 Contiene le funzioni per eseguire il task della distribuzione del gelato. 
 Le simulazioni includono anche il modello URDF del robot.
 
